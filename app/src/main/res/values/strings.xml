@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Fanavard Test Calendar</string>
+    <string name="help">تاریخ را به صورت میلادی وارد کنید و سپس دکمه را فشار دهید تا اطلاعات مربوط به آن روز که مناسب با تقویم شمسی است از برنامه گرفته شود (به صورت میان برنامه ای) و نمایش داده شود.</string>
+</resources>
